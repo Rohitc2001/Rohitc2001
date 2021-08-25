@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [zummitblogs.vcare24.in](http://zummitblogs.vcare24.in/author/rohit-chaudhary/)
 
-- 📫 How to reach me **https://www.linkedin.com/in/rohit-chaudhary-7697781a7/**
+- 📫 How to reach me  [LinkedIn profile](https://www.linkedin.com/in/rohit-chaudhary-7697781a7/)
 
 <br><h3 align="left">Connect with me:</h3>
 <p align="left">
