@@ -15,7 +15,6 @@
 
 - 📝 I regularly write articles on [zummitblogs.vcare24.in](http://zummitblogs.vcare24.in/author/rohit-chaudhary/)
 
-- 📫 How to reach me  [LinkedIn profile](https://www.linkedin.com/in/rohit-chaudhary-7697781a7/)
 
 <br><h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -45,7 +44,7 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/> </a>
  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="55" height="55"/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="55" height="55"/> </a>
-<br>
+<br><br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitc2001&show_icons=true&locale=en&layout=compact" alt="rohitc2001" /></p>
   
 <!--
