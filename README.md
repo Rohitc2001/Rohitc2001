@@ -1,5 +1,8 @@
-### Hi there 👋
-
+# Hi there 👋 
+## About Me
+  
+I am currently :man_technologist:  working as <b>Junior Associate Python/Django Developer </b> intern at <b> [Zummit Inflolabs](https://www.zummitlabs.com/).</b> <br><br>
+![Visitor Count](https://profile-counter.glitch.me/{Rohitc2001}/count.svg)
 <!--
 **Rohitc2001/Rohitc2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
