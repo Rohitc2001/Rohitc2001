@@ -40,7 +40,7 @@
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="55" height="55"/> </a> <br>
 <h4>Framework : </h4>
 <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="60" height="60"/> </a> <br>  
-<h3>Backend as a Service(BaaS) : </h3>
+<h4>Backend as a Service(BaaS) : </h4>
 <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="55" height="55"/> </a><br>
 
 <h4>Other : </h4>
