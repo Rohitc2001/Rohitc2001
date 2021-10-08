@@ -1,9 +1,14 @@
+<p align="center" ><img src="https://myoctocat.com/assets/images/base-octocat.svg" alt="javascript" width="150" height="150"/></center></p>
+
 <h1 align="center">Hi 👋, I'm Rohit Chaudhary</h1>
 <h3 align="center">A passionate junior Python/Django developer from India</h3>
-
+<hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitc2001&label=Profile%20views&color=0e75b6&style=flat" alt="rohitc2001" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitc2001" alt="rohitc2001" /></a> </p><br>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitc2001" alt="rohitc2001" /></a> </p>-->
+![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohitc2001&show_icons=true&theme=graywhite)
+
+<br>
 
 - 🔭 I’m currently working on [Weather App using Django Web-Framework.](https://github.com/Rohitc2001/Weather_App_Django)
 
@@ -15,6 +20,10 @@
 
 - 📝 I regularly write articles on [zummitblogs.vcare24.in](http://zummitblogs.vcare24.in/author/rohit-chaudhary/)
 
+<br>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitc2001&show_icons=true&locale=en&layout=compact" alt="rohitc2001" /></p>
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitc2001&theme=graywhite))](https://github.com/Rohitc2001/github-readme-stats)-->
 
 <br><h2 align="left">Connect with me:</h2>
 <p align="left">
@@ -50,7 +59,7 @@
 <br><br>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitc2001&show_icons=true&locale=en&layout=compact" alt="rohitc2001" /></p>
+
   
 <!--
 **Rohitc2001/Rohitc2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
