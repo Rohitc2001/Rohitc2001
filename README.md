@@ -3,14 +3,16 @@
 <h1 align="center">Hi 👋, I'm Rohit Chaudhary</h1>
 <h3 align="center">A passionate junior Python/Django developer from India</h3>
 <hr>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitc2001&label=Profile%20views&color=0e75b6&style=flat" alt="rohitc2001" /> </p>
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=rohitc2001&label=Profile%20views&color=0e75b6&style=flat" alt="rohitc2001" /> <br><br>
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitc2001" alt="rohitc2001" /></a> </p>-->
-![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohitc2001&show_icons=true&theme=graywhite)
 
+![](https://github-readme-stats.vercel.app/api?username=Rohitc2001&show_icons=true&theme=Gradient&include_all_commits=true)
+</div>
 <br>
-
-- 🔭 I’m currently working on [Weather App using Django Web-Framework.](https://github.com/Rohitc2001/Weather_App_Django)
+<div align="">
+ 
+- 🔭 I’m currently working as Python/Django intern at [Zummit Infolabs](https://www.linkedin.com/company/zummit-infolabs-llp/) Bangalore.
 
 - 🌱 I’m currently learning **Django, Python, Mysql and much more**
 
@@ -19,10 +21,11 @@
 - 👨‍💻 All of my projects are available at [my github repositories](https://github.com/Rohitc2001?tab=repositories)
 
 - 📝 I regularly write articles on [zummitblogs.vcare24.in](http://zummitblogs.vcare24.in/author/rohit-chaudhary/)
-
+ 
+</div>
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitc2001&show_icons=true&locale=en&layout=compact" alt="rohitc2001" /></p>
+<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitc2001&theme=Gradient&show_icons=true&locale=en&layout=compact&langs_count=8" alt="rohitc2001" /></div>
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitc2001&theme=graywhite))](https://github.com/Rohitc2001/github-readme-stats)-->
 
 <br><h2 align="left">Connect with me:</h2>
@@ -34,6 +37,7 @@
 <a href="https://linkedin.com/in/rohit-chaudhary-7697781a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit-chaudhary-7697781a7" height="40" width="50" /></a>
 <a href="https://instagram.com/rohit__chaudhary___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohit__chaudhary___" height="40" width="50" /></a>
 </p>
+ 
 <br>
 <h2 align="left">Languages and Tools:</h2>
 <br>
