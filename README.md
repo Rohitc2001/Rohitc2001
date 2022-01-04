@@ -12,7 +12,7 @@
 <br>
 <div align="">
  
-- 🔭 I’m currently working as Python/Django intern at [Zummit Infolabs](https://www.linkedin.com/company/zummit-infolabs-llp/) Bangalore.
+<!-- - 🔭 I’m currently working as Python/Django intern at [Zummit Infolabs](https://www.linkedin.com/company/zummit-infolabs-llp/) Bangalore. -->
 
 - 🌱 I’m currently learning **Django, Python, Mysql and much more**
 
