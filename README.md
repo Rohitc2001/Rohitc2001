@@ -20,7 +20,7 @@
 
 - 👨‍💻 All of my projects are available at [my github repositories](https://github.com/Rohitc2001?tab=repositories)
 
-- 📝 I regularly write articles on [zummitblogs.vcare24.in](http://zummitblogs.vcare24.in/author/rohit-chaudhary/)
+<!--- 📝 I regularly write articles on [zummitblogs.vcare24.in](http://zummitblogs.vcare24.in/author/rohit-chaudhary/) -->
  
 </div>
 <br>
